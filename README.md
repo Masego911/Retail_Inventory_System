@@ -119,7 +119,6 @@ This system integrates multiple algorithmic approaches:
 
 ## Project Structure
 
-## Project Structure
 Retail_Inventory_System/
 ├── src/
 │ ├── Main.java
@@ -131,7 +130,6 @@ Retail_Inventory_System/
 ├── clients.txt
 ├── products.txt
 ├── README.md
-
 
 ---
 
